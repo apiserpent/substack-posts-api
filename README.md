@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Substack Posts API
 
 List the posts of any Substack publication with likes, comments, restacks, word counts and authors as JSON.
